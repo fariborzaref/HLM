@@ -2,7 +2,7 @@
 
 **Author:** Dr. Fariborz Aref  
 **Discipline:** Quantitative Sociology · Inequality Research  
-**Date:** November 2025  
+**Date:** May 2023 Updated: November 2025  
 **License:** MIT  
 
 ---
